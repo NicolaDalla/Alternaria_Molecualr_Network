@@ -1,6 +1,6 @@
 # Alternaria_Dual_Polarity_Molecualr_Network
 Neutral Molecular Network of 30 strains of *Alternaria alternata*.
-👉 **[Click here to open the Interactive Neutral Molecular Network (NMN)](https://nicoladalla.github.io/Alternaria_Molecualr_Network/NMN_interactive_network.html)**
+👉 **[Click here to open the Interactive Neutral Molecular Network](https://nicoladalla.github.io/Alternaria_Molecualr_Network/NMN_interactive_network.html?v=2)**
 
 ## 📌 Study Overview
 Untargeted LC-HRMS/MS data (ESI+ and ESI−) were acquired on an **Orbitrap Exploris 240** mass spectrometer. Mass spectra were processed using noise signal filtering and dual-polarity neutral molecular networking (NMN) to map the structural diversity of *A. alternata* phytotoxins.
