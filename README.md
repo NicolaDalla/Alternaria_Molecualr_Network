@@ -7,6 +7,7 @@ Untargeted LC-HRMS/MS data (ESI+ and ESI−) were acquired on an **Orbitrap Expl
 
 ### Methodological References
 * **NMN Spectral Denoising Workflow:**  
-  Dalla Valle, N.; Garcia-Aloy, M.; Robatscher, P.; Franceschi, P.; Oberhuber, M. Improving Spectral Similarity and Molecular Network Reliability through Noise Signal Filtering in MS/MS Spectra. *Anal. Chem.* **2025**, 97 (29), 15873–15882. [DOI: 10.1021/acs.analchem.5c02109](https://doi.org/10.1021/acs.analchem.5c02109)
+Dalla Valle, N.; Franceschi, P.; Garcia-Aloy, M.; Robatscher, P.; Oettl, S.; Oberhuber, M. Neutral Molecular Networks: Polarity-Independent Tool for Mass Spectrometry Data. *Anal. Chim. Acta* **2026**, 1415, 345708. [DOI: 10.1016/j.aca.2026.345708](https://doi.org/10.1016/j.aca.2026.345708)
+
 * **Main Manuscript:**  
   under revision.
